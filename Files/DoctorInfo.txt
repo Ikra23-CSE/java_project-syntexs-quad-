@@ -1,0 +1,5 @@
+3008.0; Rifath Mahmud;22.0; Male; Cardo
+3009.0; Mazid;29.0; Male; ParrotEx
+3011.0; AFRAZ;22.0; Male;CARDIO
+3012.0; Lutful;23.0; Male; Medicine
+3013.0; Arpon;21.0; Male;ENT

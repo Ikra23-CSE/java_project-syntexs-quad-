@@ -1,0 +1,6 @@
+4002.0;Abdullah;25.0;Male;Administrator
+4003.0;Sagor;30.0;Male;Technician
+4004.0;Tamanna;28.0;Female;Nurse
+4005.0;Koli;25.0;Female;Clinical assistants
+4006.0;Tasin;23.0;Male;Pharmacists
+4007.0;Ayaan;29.0;Male;Dietitians
